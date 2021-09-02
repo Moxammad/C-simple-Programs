@@ -37,7 +37,7 @@ int main()
 		if (array[i] == number)
 		{
 			found = true;
-			cout << number << " found successfullt at index " << i << endl;
+			cout << number << " found successfully at index " << i << endl;
 			break;
 		}
 	}
